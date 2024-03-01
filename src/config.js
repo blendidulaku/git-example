@@ -1,1 +1,1 @@
-console.log("File config.js version 1");
+console.log("File config.js version 3");
